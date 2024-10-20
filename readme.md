@@ -23,4 +23,5 @@ I am not interested in contributing upstream. I need to adjust this project to b
 - [ ] Add my profile pictures
 - [ ] Add my Banner photos
 - [ ] Add folders and contents for re-usable assets.
-- make sure I keep an existing copy of these photos in a safe cloud storage situation.
+- [ ] Make sure I keep an existing copy of these photos in a safe cloud storage situation.
+- [ ] Make sure my GPG is working correctly.
